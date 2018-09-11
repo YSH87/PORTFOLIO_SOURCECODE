@@ -17,5 +17,5 @@ https://play.google.com/store/apps/details?id=com.hkstudio.low
 
 ### AR Monkey Cube
 
-[Youtube_플레이영상]
+[Youtube_데모영상]
 https://www.youtube.com/watch?v=jsMnFSzXdts
